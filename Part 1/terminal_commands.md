@@ -152,4 +152,12 @@ Now the file/files are pused to remote repo.
 
 
 
+--------------------------------------------------------
+
+git push origin ~~master~~ main
+
+`git push origin main`
+
+
+
 
