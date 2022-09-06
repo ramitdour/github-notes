@@ -1,3 +1,6 @@
+
+# Notes 
+
 This repo contains notes of git use.
 
 
@@ -8,4 +11,7 @@ This repo contains notes of git use.
 
 [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://youtu.be/Uszj_k0DGsg)
 
+## Subheader
+
+Description 
 
