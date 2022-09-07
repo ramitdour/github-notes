@@ -15,3 +15,9 @@ This repo contains notes of git use.
 
 Description 
 
+## Local development
+
+For for feature-readme-instruction branch
+
+1. Open index.html in your browser
+
