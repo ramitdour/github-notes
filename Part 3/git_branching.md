@@ -3,11 +3,11 @@
 ## Git branch
 
 
-[git branch img 1](https://github.com/ramitdour/github-notes/blob/main/resources/git_branch1.png?raw=true)
+![git branch img 1](https://github.com/ramitdour/github-notes/blob/main/resources/git_branch1.png?raw=true)
 
-[git branch img 2](https://github.com/ramitdour/github-notes/blob/main/resources/git_branch2.png?raw=true)
+![git branch img 2](https://github.com/ramitdour/github-notes/blob/main/resources/git_branch2.png?raw=true)
 
-[git branch img 3](https://github.com/ramitdour/github-notes/blob/main/resources/git_branch3.png?raw=true)
+![git branch img 3](https://github.com/ramitdour/github-notes/blob/main/resources/git_branch3.png?raw=true)
 
 Run to get current branch  
 `git branch`
@@ -160,18 +160,18 @@ logs :
 
 ------------------------------------------------------------------------------------------
 go to github repo on your browser , 
-[git branch img 4](https://github.com/ramitdour/github-notes/blob/main/resources/git_branch4.png?raw=true)
+![git branch img 4](https://github.com/ramitdour/github-notes/blob/main/resources/git_branch4.png?raw=true)
 git_branch 4.png
 
 compare and & pull request
 
-[git branch img 5](https://github.com/ramitdour/github-notes/blob/main/resources/git_branch5.png?raw=true)
+![git branch img 5](https://github.com/ramitdour/github-notes/blob/main/resources/git_branch5.png?raw=true)
 git_branch5.png
 
 merge pull request
 confirm changes
 
-[git branch img 6](https://github.com/ramitdour/github-notes/blob/main/resources/git_branch6.png?raw=true)
+![git branch img 6](https://github.com/ramitdour/github-notes/blob/main/resources/git_branch6.png?raw=true)
 git_branch6.png
 
 now we can see feature branch changes into main branch on github only

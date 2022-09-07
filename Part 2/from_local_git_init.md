@@ -38,6 +38,6 @@ If not writing `git push origin main `  everytime set upstream first by below co
 
 
 
-[git flow](https://github.com/ramitdour/github-notes/blob/main/resources/git_init_flow.png?raw=true)
+![git flow](https://github.com/ramitdour/github-notes/blob/main/resources/git_init_flow.png?raw=true)
       
     
